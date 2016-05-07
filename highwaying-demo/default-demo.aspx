@@ -88,6 +88,7 @@ function GetRoute() {
 
  var trafficLayer = new google.maps.TrafficLayer();
   trafficLayer.setMap(map);
+    //test 
 
    
     directionsDisplay.setPanel(document.getElementById('dvPanel'));
